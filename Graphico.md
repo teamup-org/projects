@@ -1,4 +1,4 @@
-# The Non-Profit Annual Report Generator
+# Graphico: The Non-Profit Annual Report Generator
 
 ## Description
 The annual report generator is a cloud-based application that creates an annual report document from data provided by the user. 
