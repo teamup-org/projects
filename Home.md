@@ -1,1 +1,2 @@
-Welcome to the projects wiki!
+# Projects
+- The Non-Profit Annual Report Generator
