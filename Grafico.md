@@ -52,54 +52,73 @@ Manual report creation lacks consistency. When reports are created manually, the
 Are there any UX and UI requirements that you must keep in mind as you build?
 
 ### 3.3 System Features
-What features are required for the software to work?
+Here are some potential system features for Grafico's annual report creation software:
+- Dashboard
+   - Customizable dashboard to view reports and track status
+   - Overview of recent reports and activity
+   - Access controls to restrict visibility
+- Data Integration
+   - Connectors to databases, APIs, file uploads
+   - Automated scheduled data imports
+   - Data validation and error checking
+   - Custom SQL and no-code options
+- Visualizations
+   - Drag-and-drop chart builder
+   - Library of chart types - bar, pie, line, scatter, etc.
+   - Formatting options - colors, labels, styling
+   - Dynamic updates when data changes
+   - Drill down interactions
+- Document Editor
+   - Drag-and-drop report layouts
+   - Collaborative editing tools
+   - Version history and rollbacks
+   - Commenting and annotations
+   - Standard text formatting options
+- Templates & Branding
+   - Library of report templates
+   - Branding manager for colors, fonts and assets
+   - Cover pages and print layouts
+   - Table of contents generation
+- Review & Approval
+   - User access controls and permissions
+   - Automated changelog reports
+   - Annotation and comment tools
+   - Customizable review workflows 
+   - eSignature integration
+- Publishing & Distribution
+   - PDF, Word, PowerPoint exports
+   - Print to local printer
+   - Emailing and scheduling
+- Access Controls
+   - Role-based access permissions
+   - Single sign-on integration  
+   - Audit logs for access and changes
+- Admin Console
+   - User, data and settings management
+   - Usage monitoring and analytics
+   - Customization of fields, attributes
+   - Configuration of modules and integrations
 
 ### 3.4 Nonfunctional Requirements
-
-
-
-## Front-end functionality
-The user must be able to register and create an account first. Then create an annual report from existing templates through an modern, simple, and easy-to-use interface.
-
-### Features
-- A user must be able to Sign Up
-- Sign up -> Collect information: contact information, unique username.
-- User account
-In the user account, the user should be able to edit his/her profile and manage reports
-The user must be able to create, save, edit, delete a report
-
-- The user must be able to share the report
-The user must be able to share the generated report to social networks
-
-### Sitemap and website structure
-
-#### Landing page
-The front page should be the form, the user should not have to click on another link to access the generator. Upon saving or generating the report, he will be prompted to login if not logged in.
-
-### User account
-The user account page is split in 02 sections. The profile section and reports management section.
-
-### Sections
-#### Section 1: Company Info and Mission Statement
-- A word from the CEO or President
-- Mission statement
-
-#### Section 2: Accomplishments and activities
-- Accomplishments
-An accomplishment object is made of 02 fields
-A text area and an image area
-- Infographics (Maybe Google Charts)
-
-#### Section 3. Personal Profiles
-
-#### Section 4. Financials
-- Funding Areas
-- Consolidated Statements of Financial Position
-- Consolidated Statements of Activities
-
-#### Section 5. Donors List
-List of donors
-
-#### Section 6. How donors can help
-
-#### Section 7. Pictures
+Here are some potential non-functional requirements for Grafico's annual report creation software:
+- Performance
+   - Fast response times for report generation (<5 sec)
+- Scalability
+   - Cloud-native architecture for elastic scaling
+- Availability & Reliability
+   - Regular backups
+- Security
+   - Role-based access control
+- Usability
+   - Intuitive, responsive UI design
+   - Contextual help documentation
+   - User testing and feedback incorporated
+   - ADA-compliant accessibility support
+- Maintainability
+   - Modular architecture
+   - Well-documented code and APIs
+   - Automated testing and CI/CD
+   - Monitoring and observability baked in
+- Data Governance
+   - GDPR and CCPA compliant
+   - Right to be forgotten
