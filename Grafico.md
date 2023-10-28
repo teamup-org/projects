@@ -52,73 +52,72 @@ Manual report creation lacks consistency. When reports are created manually, the
 Are there any UX and UI requirements that you must keep in mind as you build?
 
 ### 3.3 System Features
-Here are some potential system features for Grafico's annual report creation software:
 - Dashboard
-  - Customizable dashboard to view reports and track status
-  - Overview of recent reports and activity
-  - Access controls to restrict visibility
+  - Customizable dashboard to view reports and track status
+  - Overview of recent reports and activity
+  - Access controls to restrict visibility
 - Data Integration
-  - Connectors to databases, APIs, file uploads
-  - Automated scheduled data imports
-  - Data validation and error checking
-  - Custom SQL and no-code options
+  - Connectors to databases, APIs, file uploads
+  - Automated scheduled data imports
+  - Data validation and error checking
+  - Custom SQL and no-code options
 - Visualizations
-  - Drag-and-drop chart builder
-  - Library of chart types - bar, pie, line, scatter, etc.
-  - Formatting options - colors, labels, styling
-  - Dynamic updates when data changes
-  - Drill down interactions
+  - Drag-and-drop chart builder
+  - Library of chart types - bar, pie, line, scatter, etc.
+  - Formatting options - colors, labels, styling
+  - Dynamic updates when data changes
+  - Drill down interactions
 - Document Editor
-  - Drag-and-drop report layouts
-  - Collaborative editing tools
-  - Version history and rollbacks
-  - Commenting and annotations
-  - Standard text formatting options
+  - Drag-and-drop report layouts
+  - Collaborative editing tools
+  - Version history and rollbacks
+  - Commenting and annotations
+  - Standard text formatting options
 - Templates & Branding
-  - Library of report templates
-  - Branding manager for colors, fonts and assets
-  - Cover pages and print layouts
-  - Table of contents generation
+  - Library of report templates
+  - Branding manager for colors, fonts and assets
+  - Cover pages and print layouts
+  - Table of contents generation
 - Review & Approval
-  - User access controls and permissions
-  - Automated changelog reports
-  - Annotation and comment tools
-  - Customizable review workflows 
-  - eSignature integration
+  - User access controls and permissions
+  - Automated changelog reports
+  - Annotation and comment tools
+  - Customizable review workflows 
+  - eSignature integration
 - Publishing & Distribution
-  - PDF, Word, PowerPoint exports
-  - Print to local printer
-  - Emailing and scheduling
+  - PDF, Word, PowerPoint exports
+  - Print to local printer
+  - Emailing and scheduling
 - Access Controls
-  - Role-based access permissions
-  - Single sign-on integration  
-  - Audit logs for access and changes
+  - Role-based access permissions
+  - Single sign-on integration  
+  - Audit logs for access and changes
 - Admin Console
   - User, data and settings management
-  - Usage monitoring and analytics
-  - Customization of fields, attributes
-  - Configuration of modules and integrations
+  - Usage monitoring and analytics
+  - Customization of fields, attributes
+  - Configuration of modules and integrations
 
 ### 3.4 Nonfunctional Requirements
 Here are some potential non-functional requirements for Grafico's annual report creation software:
 - Performance
-  - Fast response times for report generation (<5 sec)
+  - Fast response times for report generation (<5 sec)
 - Scalability
-  - Cloud-native architecture for elastic scaling
+  - Cloud-native architecture for elastic scaling
 - Availability & Reliability
-  - Regular backups
+  - Regular backups
 - Security
-  - Role-based access control
+  - Role-based access control
 - Usability
-  - Intuitive, responsive UI design
-  - Contextual help documentation
-  - User testing and feedback incorporated
-  - ADA-compliant accessibility support
+  - Intuitive, responsive UI design
+  - Contextual help documentation
+  - User testing and feedback incorporated
+  - ADA-compliant accessibility support
 - Maintainability
   - Modular architecture
-  - Well-documented code and APIs
-  - Automated testing and CI/CD
-  - Monitoring and observability baked in
+  - Well-documented code and APIs
+  - Automated testing and CI/CD
+  - Monitoring and observability baked in
 - Data Governance
-  - GDPR and CCPA compliant
-  - Right to be forgotten
+  - GDPR and CCPA compliant
+  - Right to be forgotten
