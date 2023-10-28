@@ -18,8 +18,8 @@ Manual report creation lacks consistency. When reports are created manually, the
 # 3. System Features and Requirements
 ### 3.1 Functional Requirements
 - Data Integration
-  - Ability to connect to various data sources such as databases, cloud storage, financial systems, HR systems, etc.
-  - Options for uploading/inputting supplemental data not in other systems
+  - Ability to connect to various data sources such as databases
+  - Options for uploading/inputting supplemental data
   - Automated data validation and error checking
   - Customizable automated data refresh/import on a scheduled basis
 - Visualizations
@@ -41,15 +41,33 @@ Manual report creation lacks consistency. When reports are created manually, the
   - Application of brand assets and guidelines
 - Outputs & Distribution
   - Export report in formats like PDF, Word, PowerPoint
-  - Print to physical printer
+  - Print to local printer
   - Emailing distribution of reports
 - Permission controls over access
   - User Access Controls
   - Role-based permissions for access
-  - Audit trail of accesses and changes
+  - Accounts management
 
 ### 3.2 External Interface Requirements
-Are there any UX and UI requirements that you must keep in mind as you build?
+- Data Integration Interfaces
+  - APIs and connectors to access external data sources like databases.
+  - Option to bulk upload/import datasets through CSV, Excel, XML files
+- Visualization Libraries
+  - APIs to render charts, graphs, and diagrams through external libraries like D3.js, Highcharts etc.
+- Document Export Interfaces
+  - APIs to export final documents to external systems 
+  - PDF generation through libraries like PDFMake
+  - DOCX generation through libraries like DocX
+- OS/Platform Interfaces
+  - Responsive web interface for cross-platform support
+  - Desktop OS integration for context menus, notifications
+  - Support for Mac, Windows, and Linux operating systems
+- Cloud Hosting Platforms
+  - Deployment on IaaS platforms like AWS, Google Cloud, Azure
+  - Integration with PaaS like Heroku
+  - Containerization through Docker for deployment
+- External Applications
+  - URL linkages to open reports in other apps like Slack, Google Docs
 
 ### 3.3 System Features
 - Dashboard
@@ -75,7 +93,7 @@ Are there any UX and UI requirements that you must keep in mind as you build?
   - Standard text formatting options
 - Templates & Branding
   - Library of report templates
-  - Branding manager for colors, fonts and assets
+  - Branding manager for colors, fonts, and assets
   - Cover pages and print layouts
   - Table of contents generation
 - Review & Approval
@@ -99,7 +117,6 @@ Are there any UX and UI requirements that you must keep in mind as you build?
   - Configuration of modules and integrations
 
 ### 3.4 Nonfunctional Requirements
-Here are some potential non-functional requirements for Grafico's annual report creation software:
 - Performance
   - Fast response times for report generation (<5 sec)
 - Scalability
