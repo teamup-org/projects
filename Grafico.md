@@ -11,9 +11,27 @@ The intended audience is Nonprofit administrators, not technical users who need 
 ### 1.3 Intended Use
 Manual report creation is tedious and time-consuming. Grafico automates the process of aggregating data, generating charts/graphs, and formatting the report document. This saves users time and effort.
 
-Manual report creation lacks consistency. When reports are created manually, there may be inconsistencies in formatting, data accuracy, branding etc. Grafico provides consistent, standardized reports each time.
+Manual report creation lacks consistency. When reports are created manually, there may be inconsistencies in formatting, data accuracy, branding, etc. Grafico provides consistent, standardized reports each time.
 
 ### 1.4 Scope
+- Benefits
+  - Saves time by automating manual report creation tasks
+  - Provides consistency with templated designs and formats
+  - Enables easy re-use by storing templates and branding assets
+  - Reduces errors by automatically aggregating data
+
+- Objectives
+  - Simplify the process of aggregating, designing, and formatting annual reports
+  - Reduce the effort required to manually create standardized, polished reports
+  - Increase adoption across the organization with an intuitive, self-serve platform
+  - Ensure consistency in branding, visual language, and metrics across reports
+  - Provide visibility into report creation processes with audit trails and versioning
+
+- Goals
+  - Reduce average report creation time by 50%
+  - Decrease data errors in reports by 75%
+  - Achieve user adoption and retention of over 80% after launch
+  - Position Grafico as a leader in automated report generation
 
 ## 3. System Features and Requirements
 ### 3.1 Functional Requirements
