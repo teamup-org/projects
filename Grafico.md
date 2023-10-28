@@ -2,20 +2,20 @@
 
 ## 1. Introduction
 
-## 1.1 Purpose
+### 1.1 Purpose
 Grafico is a cloud-based application that creates an annual report document using data provided by the user. 
 
-## 1.2 Intended Audience
+### 1.2 Intended Audience
 The intended audience is Nonprofit administrators, not technical users who need to create annual reports.
 
-## 1.3 Intended Use
+### 1.3 Intended Use
 Manual report creation is tedious and time-consuming. Grafico automates the process of aggregating data, generating charts/graphs, and formatting the report document. This saves users time and effort.
 
 Manual report creation lacks consistency. When reports are created manually, there may be inconsistencies in formatting, data accuracy, branding etc. Grafico provides consistent, standardized reports each time.
 
-## 1.4 Scope
+### 1.4 Scope
 
-# 3. System Features and Requirements
+## 3. System Features and Requirements
 ### 3.1 Functional Requirements
 - Data Integration
   - Ability to connect to various data sources such as databases
