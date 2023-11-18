@@ -1,4 +1,4 @@
-# Campus closet: The cloth donation app benefiting college students
+# Campus closet: The cloth donation app benefiting college students (In progress ...)
 
 ## 1. Introduction
 
