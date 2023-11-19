@@ -1,4 +1,4 @@
-# Magic CV: The AI-powered resume builder for students (In progress ...)
+# Vita: The AI-powered resume builder for students (In progress ...)
 
 ## 1. Introduction
 
